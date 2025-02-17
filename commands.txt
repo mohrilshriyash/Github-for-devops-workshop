@@ -2,4 +2,8 @@ git init
 git status
 git add
 git commit
-git push origin master
+git push origin master (to push changes from local to github)
+
+git clone <repo details> :to copy a repo from github to local 
+and git fork : to copy someone else repo to your github repo
+git pull origin master(to pull changes made from github to local)
